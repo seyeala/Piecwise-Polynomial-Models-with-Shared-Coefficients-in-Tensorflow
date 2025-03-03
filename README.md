@@ -14,4 +14,22 @@ Contributions are welcome! Please ensure that any changes do not break the exist
 
 Acknowledgments
 
-This implementation was inspired by the Mooney-Rivlin in hyperelastic materials. Kudos to the original researchers and contributors.
+This implementation was inspired by the Mooney-Rivlin in hyperelastic materials. Kudos to the original researchers and contributors. The article can be found here (in which the data points were collected):
+
+https://www.hardware-x.com/article/S2468-0672(24)00102-0/fulltext
+
+Research reported in this publication was supported by the National Institute Of Biomedical Imaging And Bioengineering, USA of the National Institutes of Health under Award Number R21EB030654. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. 
+
+Citation: 
+Design and manufacture of a low-cost 3D-printed laboratory device to measure the hyperelastic properties of polymeric films with small form factor suitable for medical devices
+Dulal, Hemanta and Seyedhamidreza, Alaie.
+HardwareX, Volume 21, e00608
+
+
+
+
+
+
+
+
+
